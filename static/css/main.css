@@ -60,6 +60,10 @@ header.LogoContainer > div.NavBarContainer > div > a:hover {
 	transition: .5s ease-out;
 }
 
+header.LogoContainer > div.NavBarContainer > div > a:active {
+	color: #000;
+}
+
 header.LogoContainer > div.NavBarContainer > div.NavItemFour > a {
 	color: #222;
 	font-size: 16px;
