@@ -1,3 +1,3 @@
-particlesJS.load( 'particles-js', '../static/res/particles.json', function() {
+particlesJS.load( 'AppContainer', '../static/res/particles.json', function() {
 	console.log( 'Particles Loaded!' );
 });
